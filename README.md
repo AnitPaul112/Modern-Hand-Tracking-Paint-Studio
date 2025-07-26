@@ -43,7 +43,7 @@ pip install numpy
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AnitPaul112/Modern-Hand-Tracking-Paint-Studio
    cd mediapipe
    ```
 
